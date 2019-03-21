@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Player
+  - Player - Phase
+  - Enemy
+  - Ground - Soft
+  - Ground - Hard
+  - TRIGGER
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background 3
+    uniqueID: 1377537453
+    locked: 0
+  - name: Background 2
+    uniqueID: 1873191661
+    locked: 0
+  - name: Background 1
+    uniqueID: 2356485931
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground 2
+    uniqueID: 833302623
+    locked: 0
+  - name: Foreground 1
+    uniqueID: 4033834963
+    locked: 0
